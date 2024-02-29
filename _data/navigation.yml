@@ -15,4 +15,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: <a href="https://miraesunnykim.github.io/files/cv.pdf" target="_blank">CV</a>
+  # - title: <a href="https://miraesunnykim.github.io/files/cv.pdf" target="_blank">CV</a>
+
+  - title: "CV"
+    url: https://miraesunnykim.github.io/files/cv.pdf
