@@ -7,3 +7,5 @@ venue: "Department of Computer Science, Rice University"
 date: 202201
 location: "Houston, TX"
 ---
+
+Senior undergraduate and gradaute course about to network-based approaches using biological data.
