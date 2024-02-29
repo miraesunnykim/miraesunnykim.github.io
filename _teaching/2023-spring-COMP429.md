@@ -7,3 +7,5 @@ venue: "Department of Computer Science, Rice University"
 date: 2023-01
 location: "Houston, TX"
 ---
+
+Undergraduate course about basics of computer networkx along with analyzing concepts related to network traffic.
