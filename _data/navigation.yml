@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "About me"
+  - title: "about me"
     url: /about/
   
-  - title: "Publications"
+  - title: "publications"
     url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
+  - title: "teaching"
     url: /teaching/    
         
   # - title: "Blog Posts"
@@ -17,5 +17,5 @@ main:
     
   # - title: <a href="https://miraesunnykim.github.io/files/cv.pdf" target="_blank">CV</a>
 
-  - title: "CV"
+  - title: "cv"
     url: https://miraesunnykim.github.io/files/cv.pdf
