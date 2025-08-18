@@ -1,5 +1,6 @@
 ---
 layout: compress
+google_site_verification: wGzjjFXnkMdHfuegkM6Ykn9ATDGxkoSPRHeDVLPG2FI
 ---
 
 {% include base_path %}
@@ -9,6 +10,9 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% if page.google_site_verification %}
+    <meta name="google-site-verification" content="{{ page.google_site_verification }}" />
+    {% endif %}
   </head>
 
   <body>
