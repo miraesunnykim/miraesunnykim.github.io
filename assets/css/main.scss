@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Homepage polish */
+.home-intro p {
+  font-size: 1.06rem;
+  line-height: 1.85;
+  margin-bottom: 1.25rem;
+}
+
+.home-news {
+  margin-top: 1.5rem;
+}
+
+.home-news h2 {
+  margin-bottom: 0.7rem;
+}
+
+.home-news-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.home-news-list li {
+  margin-bottom: 0.55rem;
+  line-height: 1.65;
+}
